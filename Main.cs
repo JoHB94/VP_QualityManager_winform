@@ -15,9 +15,42 @@ namespace VP_QualityManager_winform
         public Main()
         {
             InitializeComponent();
+            this.Text = "";
+            this.FormBorderStyle = FormBorderStyle.None;
+            this.ControlBox = false;
         }
 
         private void Main_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void metroProgressBar1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void metroTile1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void metroPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void metroLabel1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void metroButton1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tableLayoutPanel2_Paint(object sender, PaintEventArgs e)
         {
 
         }
